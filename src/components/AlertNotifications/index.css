@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: roboto;
+}
+.app-heading {
+  font-size: 35px;
+  
+}
+.sucess-icon {
+  color: #2dca73;
+  font-size: 35px;
+  margin-bottom: 35px;
+}
+.close-icon {
+  font-size: 35px;
+}
+.first-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.text {
+  margin-left: 1rem;
+}
+.sucess-heading {
+  color: #2dca73;
+  font-size: 25px;
+}
+.para {
+  color: #475569;
+  font-size: 18px;
+}
+.error-icon {
+  color: #ff0b37;
+  font-size: 35px;
+  margin-bottom: 35px;
+}
+.error-heading {
+  color: #ff0b37;
+  font-size: 25px;
+}
+.warning-icon {
+  color: #ffb800;
+  font-size: 35px;
+  margin-bottom: 35px;
+}
+.info-icon {
+  color: #0f81e0;
+  font-size: 35px;
+  margin-bottom: 35px;
+}
+.warning-heading {
+  font-size: 25px;
+  color: #ffb800;
+}
+.info-heading {
+  font-size: 25px;
+  color: #0f81e0;
+}
